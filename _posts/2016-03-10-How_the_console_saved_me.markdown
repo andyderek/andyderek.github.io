@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the Console.log saved my life..."
-date:   2016-03-01 01:30:54 -0800
+date:   2016-03-10 01:30:54 -0800
 categories: jekyll update
 ---
 
