@@ -7,7 +7,7 @@ categories: jekyll update
 
 First off don’t make fun of my page.  I’m going for that OG retro look.  Think GeoCities late 90s complete with broken images.
 
-<img src ="andyderek.github.io/oldmoniter.jpg">
+<img src ="andyderek.github.io/images/oldmonitor.jpg">
 
 I often see people use multiple short-cuts in quick succession and I left thinking to my self...
 
