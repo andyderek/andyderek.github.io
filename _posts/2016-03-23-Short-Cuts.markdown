@@ -8,9 +8,11 @@ categories: jekyll update
 
 First off don’t make fun of my page.  I’m going for that OG retro look.  Think GeoCities late 90s complete with broken images.
 
-If it helps image that your are viewing this page on this computer:
+If it helps, imagine that your are viewing this page on this computer:
 
 ![My helpful screenshot]({{ andyderek.github.io }}/images/oldmonitor.jpg)
+
+
 
 I often see people use multiple short-cuts in quick succession and I'm... well I think this video sums it up pretty well:
 
@@ -36,5 +38,12 @@ When you are in a Sublime Text and you press Command-F this appears at the botto
 
 Once this Bar is open at the bottom of the screen you can type in the word you are searching for and select from these options: Find, Find Prev, Find All.
 
-If you do not have the wrap button selected ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wrapbutton.png)
+If you do not have the wrap button selected ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wrapbutton.png) then it will begin it's search where your cursor is on your page and complete the search at the end of the document.  If you do have it selected it will start where your cursor is, search until the end and then wrap back to the beginning and finally completeing it's search where you started it.
+
+Another button that is helpful is this one: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wholeword.png)  If this one is selected than the find feature only finds that word (instead of finding instances of those letter combinations inside other words).
+
+Another handy button is the Highlight Matches Button: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wholeword.png)
+This one is as described, it highlights your matches in the document(although this can also be achieved by double clicking on a word)
+
+
  
