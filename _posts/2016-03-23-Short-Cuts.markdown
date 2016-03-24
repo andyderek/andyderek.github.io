@@ -16,7 +16,7 @@ I often see people use multiple short-cuts in quick succession and I'm... well I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6m-L8Y1Df8" frameborder="0" allowfullscreen></iframe>
 
-So tonight I decided to explore a few short-cuts.  In this post I was thinking that it might be nice to include some screen shots.  But how do I do that.  Perhaps there is come combination of keys I could press...
+So tonight I decided to explore a few short-cuts(in reality I got caught up in exploring in particular).  In this post I was thinking that it might be nice to include some screen shots.  But how do I do that.  Perhaps there is come combination of keys I could press...
 
 Aha!  There is indeed:
 
@@ -35,4 +35,6 @@ When you are in a Sublime Text and you press Command-F this appears at the botto
 ![Screen shoot of Command-F]({{ andyderek.github.io }}/images/command-f.png)
 
 Once this Bar is open at the bottom of the screen you can type in the word you are searching for and select from these options: Find, Find Prev, Find All.
+
+If you do not have the wrap button selected ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wrapbutton.png)
  
