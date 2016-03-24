@@ -11,7 +11,7 @@ First off don’t make fun of my page.  I’m going for that OG retro look.  Thi
 
 I often see people use multiple short-cuts in quick succession and I left thinking to my self...
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=k6m-L8Y1Df8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6m-L8Y1Df8?t=10s" frameborder="0" allowfullscreen></iframe>
 
 So tonight I decided to explore a few short-cuts.  In this post I was thinking that it might be nice to include some screen shots.  But how do I do that.  Perhaps there is come combination of keys I could press...
 
