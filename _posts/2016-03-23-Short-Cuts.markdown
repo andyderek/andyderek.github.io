@@ -45,5 +45,5 @@ Another button that is helpful is this one: ![Screen Shot of Wrap button]({{ and
 Another handy button is the Highlight Matches Button: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/Highlightbutton.png)
 This one is as described, it highlights your matches in the document(although this can also be achieved by double clicking on a word)
 
-
+Research and Blogging on this subject is still in progress stay tuned....
  
