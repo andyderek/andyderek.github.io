@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Short Cuts"
+title:  "I once was lost but now I...."
 date:   2016-03-23 
 categories: jekyll update
 ---
+...just press Command-F.
 
 First off don’t make fun of my page.  I’m going for that OG retro look.  Think GeoCities late 90s complete with broken images.
 
@@ -29,13 +30,7 @@ Once you do this a crosshair pointer will appear on the screen. If you decide th
 
 Okay.  Now that I figured that out I thought it might be nice to learn some Sublime Text shortcuts.  Please bear with me as I am learning these as I type this blog (and trying to learn how to write, edit and update my blog)
 
-The first one I’m going to learn is one that I thought would be very useful if you decided to change the name of a variable in your code after using it through out your code:
+When you are in a Sublime Text and you press Command-F this appears at the bottom:
 
-First either click on or have your cursor on the variable that you wish to change.
-
-Then press Command-D repeatedly until you’ve highlighted all the instances of the variable.  Then type in your new variable. 
-
-But a better way might be to double click on the variable you wish to replace and then press Option-Command-F.   ESC will close this toolbar
-
-While we are on the F key we can press Control-Command-F to enter and exit Full Screen mode. 
+![Screen shoot of Command-F]({{ andyderek.github.io }}/images/command-f.png)
  
