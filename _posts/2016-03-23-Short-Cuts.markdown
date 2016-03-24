@@ -33,4 +33,6 @@ Okay.  Now that I figured that out I thought it might be nice to learn some Subl
 When you are in a Sublime Text and you press Command-F this appears at the bottom:
 
 ![Screen shoot of Command-F]({{ andyderek.github.io }}/images/command-f.png)
+
+Once this Bar is open at the bottom of the screen you can type in the word you are searching for and select from these options: Find, Find Prev, Find All.
  
