@@ -7,6 +7,8 @@ categories: jekyll update
 
 First off don’t make fun of my page.  I’m going for that OG retro look.  Think GeoCities late 90s complete with broken images.
 
+If it helps image that your are viewing this page on this computer:
+
 ![My helpful screenshot]({{ andyderek.github.io }}/images/oldmonitor.jpg)
 
 I often see people use multiple short-cuts in quick succession and I'm... well I think this video sums it up pretty well:
