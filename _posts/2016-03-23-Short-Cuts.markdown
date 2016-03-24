@@ -42,7 +42,7 @@ If you do not have the wrap button selected ![Screen Shot of Wrap button]({{ and
 
 Another button that is helpful is this one: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wholeword.png)  If this one is selected than the find feature only finds that word (instead of finding instances of those letter combinations inside other words).
 
-Another handy button is the Highlight Matches Button: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/wholeword.png)
+Another handy button is the Highlight Matches Button: ![Screen Shot of Wrap button]({{ andyderek.github.io }}/images/Highlightbutton.png)
 This one is as described, it highlights your matches in the document(although this can also be achieved by double clicking on a word)
 
 
