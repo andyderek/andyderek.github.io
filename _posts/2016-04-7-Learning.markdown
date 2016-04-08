@@ -15,6 +15,6 @@ So when I first began my quest to learn JavaScript I picked up a book called “
 
 I found this book to be of great use to get me started.  It is set up so that you read a few pages and then you immediately take a 20-question test on the information that you just read about.  Often times the questions were repetitive which I found annoying sometimes but helpful nonetheless.
 
-Upon reflecting on this I realize that I might need to employ this more on my day to day coding challenges.
+Upon reflecting on this I realize that I might need to employ this approach more on my day to day coding challenges.
 
  
