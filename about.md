@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m Andy and I’m a software engineer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I love challenges.  Once I get into solving programming puzzle or challenge I can not stop until it is complete.  I’ll fall asleep working on it.  I’ll even dream about it and in the morning I’m back at it.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I recently built Hacker Habitat with a couple of software engineers. It connects software engineers who are looking for temporary or permanent housing with other engineers who have rooms for rent.  I primarily worked on the front-end using React, Redux and the Sendgrid API for emailing support.
+
+I am currently working on an app called Labor Pro for union members to help them track their jobs, hours and wages. I really enjoy working on this app because there is always more features that could be added to this app and more puzzles to be solved. 
+

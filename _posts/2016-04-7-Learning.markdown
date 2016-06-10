@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Learning How to Learn"
+title:  "Small Bits of Information"
 date:   2016-03-23 
 categories: jekyll update
 ---
-
-With all the learning that has been going on in my life I'm also learning that I need to learn how to learn.  Sure I could have used a thesaurus for that sentence and perhaps learned a new word for learn (I did by the way and there aren't that may great alternatives for the word learn).
 
 So one thing I've noticed about myself is that I tend to do best with small bits of information followed by a chance to immediately utilize that information.  For instance I just learned that Sublime Text doesn’t offer much in the way of spelling and grammar help (nor does it have a thesaurus).  That isn’t a great example.
 
