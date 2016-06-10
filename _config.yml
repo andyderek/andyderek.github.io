@@ -9,8 +9,7 @@
 title: Not Just Another Javascripter
 email: andielane@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  My transformation from being a stagehand to being a coder...
-  and a blogger apparently.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "andyderek.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
