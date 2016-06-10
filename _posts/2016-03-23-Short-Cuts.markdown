@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I once was lost but now I...."
+title:  "I once was lost, but now I..."
 date:   2016-03-23 
 categories: jekyll update
 ---
