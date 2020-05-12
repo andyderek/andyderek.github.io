@@ -20,7 +20,7 @@ categories: jekyll update
 
 # The Same To Do List with VueJS:
 <iframe
-     src="https://codesandbox.io/embed/dazzling-cherry-30237?fontsize=14&theme=dark"
+     src="https://codesandbox.io/embed/vuejstodolist-30237?autoresize=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="vuejstodolist"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr"
