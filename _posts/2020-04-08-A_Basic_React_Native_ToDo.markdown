@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Basic React Native ToDo List"
+title:  "A Basic Todo List 5 Ways"
 date:   2020-04-08 
 categories: jekyll update
 ---
