@@ -16,7 +16,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with ReactJS:
-![](reactLogo.jpg)
+![](../images/reactLogo.jpg)
 <iframe
      src="https://codesandbox.io/embed/reactjstodolist-oebg7?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -26,7 +26,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with VueJS:
-![](vueLogo.jpg)
+![](../images/vueLogo.jpg)
 <iframe
      src="https://codesandbox.io/embed/vuejstodolist-30237?autoresize=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -36,7 +36,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with Angular:
-![](angular.png)
+![](../images/angular.png)
 <iframe
      src="https://codesandbox.io/embed/angulartodolist-gjuyr?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -46,5 +46,5 @@ categories: jekyll update
    ></iframe>
    
 # The Same To Do List with React Native:
-![](reactNativeLogo.jpg)
+![](../images/reactNativeLogo.jpg)
 <div data-snack-id="@andyderek/f4e891" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
