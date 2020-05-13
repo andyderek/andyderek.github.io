@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 
 # Here is a basic Vanilla Javascript To Do List:
-![javascript_logo]({{ andyderek.github.io }}/images/javascriptLogo.png)
 <p align="center">
   <img src="/images/javascriptLogo.png">
 </p>
@@ -19,7 +18,9 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with ReactJS:
-![react_logo]({{ andyderek.github.io }}/images/reactLogo.jpg)
+<p align="center">
+  <img src="/images/reactLogo.jpg">
+</p>
 <iframe
      src="https://codesandbox.io/embed/reactjstodolist-oebg7?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -29,7 +30,9 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with VueJS:
-![vuejs_logo]({{ andyderek.github.io }}/images/vueLogo.jpg)
+<p align="center">
+  <img src="/images/vueLogo.jpg">
+</p>
 <iframe
      src="https://codesandbox.io/embed/vuejstodolist-30237?autoresize=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -39,7 +42,9 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with Angular:
-![angular_logo]({{ andyderek.github.io }}/images/angular.png)
+<p align="center">
+  <img src="/images/angular.png">
+</p>
 <iframe
      src="https://codesandbox.io/embed/angulartodolist-gjuyr?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -49,5 +54,7 @@ categories: jekyll update
    ></iframe>
    
 # The Same To Do List with React Native:
-![reactnative_logo]({{ andyderek.github.io }}/images/reactNativeLogo.png)
+<p align="center">
+  <img src="/images/reactNativeLogo.png">
+</p>
 <div data-snack-id="@andyderek/f4e891" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
