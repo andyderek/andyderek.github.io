@@ -8,7 +8,7 @@ categories: jekyll update
 # Here is a basic Vanilla Javascript To Do List:
 ![javascript_logo]({{ andyderek.github.io }}/images/javascriptLogo.png)
 <p align="center">
-  <img width="460" height="300" src="andyderek.github.io/images/javascriptLogo.png">
+  <img src="/images/javascriptLogo.png">
 </p>
 <iframe
      src="https://codesandbox.io/embed/hopeful-beaver-kzof4?fontsize=14&hidenavigation=1&theme=dark"
