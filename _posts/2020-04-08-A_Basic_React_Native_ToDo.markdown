@@ -6,9 +6,7 @@ categories: jekyll update
 ---
 
 # Here is a basic Vanilla Javascript To Do List:
-<p align="center">
 ![javascript_logo]({{ andyderek.github.io }}/images/javascriptLogo.png)
-</p>
 <iframe
      src="https://codesandbox.io/embed/hopeful-beaver-kzof4?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -18,9 +16,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with ReactJS:
-<p align="center">
 ![react_logo]({{ andyderek.github.io }}/images/reactLogo.jpg)
-</p>
 <iframe
      src="https://codesandbox.io/embed/reactjstodolist-oebg7?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -30,9 +26,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with VueJS:
-<p align="center">
 ![vuejs_logo]({{ andyderek.github.io }}/images/vueLogo.jpg)
-</p>
 <iframe
      src="https://codesandbox.io/embed/vuejstodolist-30237?autoresize=1&fontsize=14&hidenavigation=1&moduleview=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -42,9 +36,7 @@ categories: jekyll update
    ></iframe>
 
 # The Same To Do List with Angular:
-<p align="center">
 ![angular_logo]({{ andyderek.github.io }}/images/angular.png)
-</p>
 <iframe
      src="https://codesandbox.io/embed/angulartodolist-gjuyr?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -54,7 +46,5 @@ categories: jekyll update
    ></iframe>
    
 # The Same To Do List with React Native:
-<p align="center">
 ![reactnative_logo]({{ andyderek.github.io }}/images/reactNativeLogo.png)
-</p>
 <div data-snack-id="@andyderek/f4e891" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
