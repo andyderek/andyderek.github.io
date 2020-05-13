@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 # Here is a basic Vanilla Javascript To Do List:
-![](../_images/javascriptLogo.png)
+![](../images/javascriptLogo.png)
 <iframe
      src="https://codesandbox.io/embed/hopeful-beaver-kzof4?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
