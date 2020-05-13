@@ -5,6 +5,9 @@ date:   2020-04-08
 categories: jekyll update
 ---
 
+# Here is a basic Vanilla Javascript To Do List:
+<embed>https://codesandbox.io/s/hopeful-beaver-kzof4?fontsize=14&hidenavigation=1&theme=dark</embed>
+
 # Here is a basic React Native To Do List:
 
 <div data-snack-id="@andyderek/f4e891" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fafafa;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.io/embed.js"></script>
